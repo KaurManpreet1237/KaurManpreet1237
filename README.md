@@ -8,9 +8,6 @@
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="300" alt="coding" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaurmanpreet1237&label=Profile%20views&color=0e75b6&style=flat" alt="kaurmanpreet1237" />
-</p>
 
 ---
 
@@ -61,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmanpreet1237&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaurmanpreet1237&theme=dark" alt="GitHub Streak Stats - Manpreet Kaur" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaurmanpreet1237&theme=radical" alt="kaurmanpreet1237" />
 </p>
 
 ---
