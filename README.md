@@ -35,9 +35,23 @@
 
 #### 🛠️ Languages & Tools
 
+<h3 align="center">🧰 Tech Stack</h3>
+
+<!-- Supported Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,matplotlib,sql,mysql,postgresql,html,css,javascript,react,vue,php,django,java,c,cpp,linux,nodejs,express,mongodb,git,github,opencv,tensorflow,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,vue,php,django,linux,nodejs,express,mongodb,git,github,postgresql,mysql,tensorflow" />
 </p>
+
+<!-- Manually Added Icons (Unsupported on skillicons.dev) -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" height="40" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" />
+</p>
+
+
 
 ---
 
@@ -66,8 +80,9 @@
 ### 📆 GitHub Activity Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kaurmanpreet1237&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaurmanpreet1237&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
