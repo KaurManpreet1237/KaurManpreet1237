@@ -2,7 +2,8 @@
 ![logo](https://github.com/KaurManpreet1237/KaurManpreet1237/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
-<h3 align="center">🚀 A Passionate Data Analyst from India</h3>
+<h3 align="center">🚀 A Passionate Data Analyst | 💻 Web Designer & Developer | 📊 Power BI Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="300" alt="coding" />
