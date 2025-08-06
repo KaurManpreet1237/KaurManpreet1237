@@ -60,7 +60,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmanpreet1237&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaurmanpreet1237&" alt="kaurmanpreet1237" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaurmanpreet1237&theme=dark" alt="GitHub Streak Stats - Manpreet Kaur" />
+</p>
 
 ---
 
