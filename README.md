@@ -1,4 +1,4 @@
-<!-- Banne -->
+<!-- Banner-->
 ![logo](https://github.com/KaurManpreet1237/KaurManpreet1237/blob/9415fc25c3258e3114b12f89195e9701bc19d2aa/github_banner.png)
 
 <h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
